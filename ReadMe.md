@@ -39,11 +39,11 @@ Below you can find a link to my method, I attached as a text. It is free to use 
 ---
 
 # How to buy?
-There are three ways to get my method:
+There are four ways to get my method:
 1. Crack the PGP for free if you can
-2. Buy with Bitcoin
-3. Contract
-4. Enclose others from competition
+2. Buy with Bitcoin or other crypto currency
+3. Contract between us
+4. Monopoly - Totally enclose others from competition
 
 ### Choose the fastest way with bitcoin
 Buy for ~5 BTC. It is not a huge cost, but it is reasonable I think. 
@@ -72,7 +72,7 @@ Also I want to offer the option to not sell my algorithm to other parties. Givin
 ###      encrypted
 Two PGP keys were used to encrypt the text. None of them are public. Before encryption I added some special Steganography of mine. So good luck to crack it within your life. But if you did, congratulation!
 
-###      buying for Bitcoin
+###      buying with Bitcoin - anonymously
 Here is the process what you should follow to stay anonym *(also, this is my recommendation)*:
 1.	go and [visit this link.](https://github.com/jugo-amaryl/How_To_LevelUp_Your_AIsCommunicationSkill/blob/master/TheTechnique_MyMethod.txt) Download and store the text in a safe location.
 
@@ -81,6 +81,7 @@ Here is the process what you should follow to stay anonym *(also, this is my rec
 3.	Price will be 5.unique_ID BTC. *(in this case 5.311018)* With this the chance that you and somebody else will pay me in the same time will be 1:799999, -> unlikely. All of e-mails we can refeer to this unique ID as an order number. I will be able to identify you with this number. Please put this unique ID number into the subject's of the mail. I will do the same.
 
 4. My wallets: 
+- 13B4cjSXyzbJZKEb4SytTzfjp4gEeSwJWJ *This is a general wallet*
 - [Up to 6 BTC link](https://blockchain.com/btc/payment_request?address=1L6gpo6HSRAwmpzaKKYZQDiA1C8AhUTwQn&amount=6&message=upzo6BTC) 1L6gpo6HSRAwmpzaKKYZQDiA1C8AhUTwQn
 - [Only you - 500 BTC link](https://blockchain.com/btc/payment_request?address=1Cp4CjNGaUet2S1b86c44Qg8a9wxYcGVKk&amount=500&message=All_yours_500BTC) 1Cp4CjNGaUet2S1b86c44Qg8a9wxYcGVKk
 - Regarding other options, you can [contact with me](https://github.com/jugo-amaryl/How_To_LevelUp_Your_AIsCommunicationSkill#e-mail)

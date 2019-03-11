@@ -8,7 +8,7 @@
 3.2 Copy the Public Key and Add to Kleopatra
 3.3 Certify both *(if it is not done yet)*
 3.4 Advice: do not mix keys with existing keys, it will make headache for you
-4. Select and Copy the PGP message into Notepad [link is here](https://github.com/jugo-amaryl/How_To_LevelUp_Your_AIsCommunicationSkill/blob/master/MyMethod_withPGP)
+4. Select and Copy the PGP message into Notepad [link is here](https://github.com/jugo-amaryl/How_To_LevelUp_Your_AIsCommunicationSkill/blob/master/TheTechnique_MyMethod.txt)
 5. Kleopatra / Clipboard / *Decrypt/Verify* Notepad *(Maybe you need to paste the text, maybe it is enough if it is on the clipboard, depend on which version do you use)*
 6. Input the Passphrase *(Double check what is on your clipboard, some Kleopatra version has bug, and you are not able to copy paste the Passphare - at least with Linux)*
 7. Copy my method for yourself

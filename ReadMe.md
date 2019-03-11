@@ -83,6 +83,7 @@ Here is the process what you should follow to stay anonym *(also, this is my rec
 4. My wallets: 
 - [Up to 6 BTC link](https://blockchain.com/btc/payment_request?address=1L6gpo6HSRAwmpzaKKYZQDiA1C8AhUTwQn&amount=6&message=upzo6BTC) 1L6gpo6HSRAwmpzaKKYZQDiA1C8AhUTwQn
 - [Only you - 500 BTC link](https://blockchain.com/btc/payment_request?address=1Cp4CjNGaUet2S1b86c44Qg8a9wxYcGVKk&amount=500&message=All_yours_500BTC) 1Cp4CjNGaUet2S1b86c44Qg8a9wxYcGVKk
+- Regarding other options, you can (contact with me)[https://github.com/jugo-amaryl/How_To_LevelUp_Your_AIsCommunicationSkill#e-mail]
 
 5. Make sure that after transaction I will get the exact price as it is in point 3. Some BTC wallets are reducing the transferred money!
 

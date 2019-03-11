@@ -15,6 +15,6 @@
 8. Remove stegaography, add Tabs as structure shows, and work can start
 
 - Please note, Kleopatra mostly using the clipboard to reach the data. In case you selected a text, pressed CTRL+C (Copy), data will go to Clipboard. You will no need to paste it. Some versions of Kleopatra has a notepad for Encryption and Decryption. In this case you need to Paste (CTRL+V) the PGP message and click to Decrypt. 
-- In case you would stuck with the process, here is a [link](https://www.youtube.com/watch?v=lAblt1Qt_ng) to watch DIY video, but you can search on youtube for more.
+- In case you would stuck with the process, here is a [Decryption tutorial link](https://www.youtube.com/watch?v=mwyYRFBcEsU) and an [Encryption tutorial link](https://www.youtube.com/watch?v=lAblt1Qt_ng) *(just to understand the whole process)* to watch DIY video, but you can search on youtube for more.
 
 ---

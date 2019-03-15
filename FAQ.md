@@ -26,3 +26,6 @@ A:
 4. Advice: save each items in a new folder to not mix different Keys.
 
 ---
+
+Q: Why are you selling it for BitCoin?
+A: Some of you thought I am some kind of internet abuser, selling wortless item to you and gone with the money. Well, the chance to get my idea for BitCoin is a solution for another problem. I prefer to work with contract as partnership. But I can not close the window for those people, who wants to take advantage on my solution and buy themself and present it as "his/her" own solution to reach promotion or other benefits at his/her company. So yes, I can sell it for you for BTC, because it is the most anonymously way what I can find out. But a proper contract between your company and me would be an ideal and transparent way for both of us.
